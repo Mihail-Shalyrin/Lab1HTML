@@ -1,0 +1,23 @@
+.describe{
+    color: rgb(100, 50, 150); /* Пример цвета текста */
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    width: 40%;
+}
+
+h1,h2,h3 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.list {
+    font-style:oblique;
+    list-style-type: georgian;
+}
+.photo{
+    width:600px;
+    height: 600px;
+}
+

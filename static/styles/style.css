@@ -1,0 +1,54 @@
+.container{
+    display: block;
+    background-color: darkgray;
+    height: 50px; 
+    padding: 2px;
+    text-align:center;
+   
+
+}
+.container2{
+    display: inline-block;
+    width: 40;;
+    height:200px;
+    text-align:center;
+     margin: 15px; 
+} 
+.container3{
+   margin :10px;
+} 
+
+
+.photo{
+    height:50%
+}
+
+.maincontainer{
+    text-align: center;
+}
+.znak{
+    height:auto;
+
+}
+.right-container {
+    display: flex;
+    height:33px;
+}
+
+
+.rights {
+    display: flex;
+    justify-content: center; /*  выравнивает дочерние элементы по горизонтали по центру контейнера.*/
+    align-items: center;   /*выравнивает дочерние элементы по вертикали по центру контейнера. */
+}
+body{
+    background-color: blanchedalmond;
+}
+a{
+    color: aqua;
+    font-size: 12;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+}
