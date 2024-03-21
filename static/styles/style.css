@@ -10,10 +10,10 @@
 .container2{
     display: inline-block;
     width: 40;;
-    height:200px;
-    text-align:center;
+    height:400px;
      margin: 15px; 
 } 
+
 .container3{
    margin :10px;
 } 
@@ -27,11 +27,12 @@
     text-align: center;
 }
 .znak{
-    height:auto;
+    
+    height:33px;
 
 }
 .right-container {
-    display: flex;
+      display:flex;  
     height:33px;
 }
 
@@ -42,12 +43,13 @@
     align-items: center;   /*выравнивает дочерние элементы по вертикали по центру контейнера. */
 }
 body{
-    background-color: blanchedalmond;
+    background-color: beige;
 }
 a{
-    color: aqua;
+    color: black;
     font-size: 12;
     font-weight: bold;
+    
 }
 ul {
     list-style-type: none;
